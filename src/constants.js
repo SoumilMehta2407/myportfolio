@@ -89,7 +89,7 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: webverseLogo,
+      img: "https://jbsoftware.ca/wp-content/uploads/web-design.jpg",
       role: "Fullstack Developer",
       company: "Webverse Digital",
       date: "April 2024 - Present",
@@ -145,7 +145,7 @@ export const SkillsInfo = [
   export const education = [
     {
       id: 0,
-      img: glaLogo,
+      img: "https://jbsoftware.ca/wp-content/uploads/web-design.jpg",
       school: "GLA University, Mathura",
       date: "Sept 2022 - July 2024",
       grade: "7.81 CGPA",
